@@ -78,11 +78,3 @@ License
 This project is open-source and available under the MIT License.
 
 Feel free to fork this project and adapt it to your needs. If you have any questions or suggestions, feel free to reach out!
-
-
-### O que foi corrigido:
-- Todo o conteúdo está dentro do formato Markdown, sem sair do código.
-- As listas e blocos de código estão devidamente formatados.
-- Links e exemplos foram mantidos no padrão Markdown.
-
-Agora você pode copiar e colar diretamente no seu arquivo `README.md`. Se precisar de mais ajustes, é só avisar! 😊
