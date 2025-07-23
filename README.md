@@ -2,7 +2,7 @@
 
 This project is a personal CV (Curriculum Vitae) built using **HTML** and **CSS**. It is designed to showcase professional experience, education, skills, and contact information in a clean and responsive format.
 
----
+--------------------------------------------------------------------------------------------------------------------
 
 ## Features
 
@@ -16,34 +16,36 @@ This project is a personal CV (Curriculum Vitae) built using **HTML** and **CSS*
   - Scrum Master Skills
   - Contact Information
 
----
+--------------------------------------------------------------------------------------------------------------------
 
 ## Preview
 
 You can view the CV by opening the `indexcven.html` file in any modern web browser.
 
----
+--------------------------------------------------------------------------------------------------------------------
 
 ## How to Use
 
 1. **Clone the Repository**:
-   ```bash
    git clone https://git@github.com:ThiagoMoro/curriculo.git
-Open the Project:
-Navigate to the project folder and open the index.html file in your browser.
-Customise the Content:
-Open the index.html file in a text editor.
-Update the sections with your personal information, such as name, experience, education, and skills.
-Customise the Styles:
-Open the <style> section in the index.html file or create a separate style.css file.
-Modify colours, fonts, or layout to match your personal branding.
+2. Open the Project:
+3. Navigate to the project folder and open the index.html file in your browser.
+4. Customise the Content:
+5. Open the index.html file in a text editor.
+6. Update the sections with your personal information, such as name, experience, education, and skills.
+7. Customise the Styles:
+    Open the <style> section in the index.html file or create a separate style.css file.
+    Modify colours, fonts, or layout to match your personal branding.
+
 Project Structure
 plaintext
-Copy 
-.
-├── index.html   # Main HTML file containing the CV structure
-└── README.md    # Documentation for the project
+Copy
+
+.  
+├── index.html   # Main HTML file containing the CV structure  
+└── README.md    # Documentation for the project  
 Sections Overview
+
 1. About Me
 A brief introduction highlighting your professional background, expertise, and goals.
 
@@ -61,6 +63,8 @@ Skills related to Agile methodologies, including Scrum, Kanban, and SAFe.
 
 6. Contact Information
 Your email, phone number, and LinkedIn profile for professional connections.
+
+--------------------------------------------------------------------------------------------------------------------
 
 Technologies Used
 HTML: For structuring the content.
